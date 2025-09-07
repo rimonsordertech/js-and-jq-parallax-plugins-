@@ -1,0 +1,21 @@
+ body {
+  margin: 0;
+  height: 200vh;
+  background: #222;
+  color: #fff;
+  text-align: center;
+  padding-top: 100px;
+}
+
+.rellax {
+  font-size: 40px;
+  margin: 50px 0;
+}
+
+.fast {
+  color: #ff4444;
+}
+
+.slow {
+  color: #44ff44;
+}
